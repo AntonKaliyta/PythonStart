@@ -177,4 +177,16 @@
 
 # q = a.union(b).difference(a.intersection(b))
 
+# list_1 = []
+# for i in range(1,101):
+#     list_1.append(i)
+# print(list_1)
 
+# list_1 = [i for i in range (1,101)]
+# print(list_1)
+
+# list_1 = [i for i in range(1, 101) if i % 2 == 0 ]
+# print(list_1)
+
+list_1 = [(i,i*i) for i in range(1, 101) if i % 2 == 0 ]
+print(list_1)
