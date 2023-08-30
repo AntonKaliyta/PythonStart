@@ -162,17 +162,19 @@
 # dr = b.difference(a) # dr = {13, 21}
 # q=a.union(b).difference(a.intersection(b)) # {1, 21, 3, 13}
 
-a = {1, 2, 3, 4, 7}
-b = {3, 4, 2, 5, 6}
+# a = {1, 2, 3, 4, 7}
+# b = {3, 4, 2, 5, 6}
 
-c = a.copy()
+# c = a.copy()
 
-print(a,b,c)
-e = a.union(b)
-print(e)
-i = a.intersection(b)
-print(i)
-dif = a.difference(b)
-print(dif)
+# print(a,b,c)
+# e = a.union(b)
+# print(e)
+# i = a.intersection(b)
+# print(i)
+# dif = a.difference(b)
+# print(dif)
 
-q = a.union(b).difference(a.intersection(b))
+# q = a.union(b).difference(a.intersection(b))
+
+
