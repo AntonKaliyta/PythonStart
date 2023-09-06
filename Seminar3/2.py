@@ -12,3 +12,4 @@ for i in range(k):
 print(list_1)
 
 # послание
+# послание в ответ
