@@ -6,7 +6,7 @@ for i in range(1, n+1):
     day = int(input(f'{i} день '))
     if day > 0:
         count += 1
-        if count>maxCount:
+        if count > maxCount:
             maxCount = count
     else:
         count = 0
