@@ -10,3 +10,5 @@ for i in range(len(letters)):
 
 new_letters = list(reversed(letters))
 print(new_letters)
+
+# послание
