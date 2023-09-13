@@ -11,4 +11,9 @@ for i in range(len(letters)):
 new_letters = list(reversed(letters))
 print(new_letters)
 
-# послание
+
+
+
+# letters = "a a a b c a a d c d d".split()
+# for i in range(len(letters)):
+#     print(f"{letters[i]}_{letters[0:i].count(letters[i])}")
