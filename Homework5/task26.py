@@ -1,6 +1,6 @@
 # программа принимает два числа и возводит А в целую степень В с помощью рекурсии
 
-def pow(num, power):
+def my_pow(num, power):
     if (power == 1):
         return num
     else:
